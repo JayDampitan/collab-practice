@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+nav {
+    background-color: aqua;
+    height: 10vh;
+}
+
+
+.row {
+    display: flex;
+    position: relative;
+
+}
+
+.col-sm-4 {
+    background-color: blue;
+    height: 80vh;
+    width: auto;
+    
+}
+
+.col-sm-5 {
+    background-color: red;
+    height: 80vh;
+    width: auto;
+}
+
+footer {
+    display: flex;
+    background-color: green;
+    height: 10vh;
+}
