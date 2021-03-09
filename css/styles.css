@@ -9,28 +9,19 @@ nav {
     height: 10vh;
 }
 
-
-.row {
-    display: flex;
-    position: relative;
-
-}
-
-.col-sm-4 {
+.col-sm-5 {
     background-color: blue;
     height: 80vh;
-    width: auto;
-    
+    color: #fff;
 }
 
-.col-sm-5 {
+.col-sm-7 {
     background-color: red;
     height: 80vh;
-    width: auto;
+    color: #fff;
 }
 
 footer {
-    display: flex;
     background-color: green;
     height: 10vh;
 }
