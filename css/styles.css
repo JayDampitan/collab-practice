@@ -1,39 +1,4 @@
-* {
-    margin: 0;
-    padding: 0%;
-    box-sizing: border-box;
-}
-
-nav {
-    background-color: aqua;
-    height: 10vh;
-}
-
-.nav-list ul {
-    display: flex;
-    justify-content: flex-start;
-    list-style: none;
-}
-
-li {
-    padding: 20px;
-    display: flex;
-    align-items: center;
-}
-
-.col-sm-5 {
-    background-color: blue;
-    height: 80vh;
-    color: #fff;
-}
-
-.col-sm-7 {
-    background-color: red;
-    height: 80vh;
-    color: #fff;
-}
-
-footer {
-    background-color: green;
-    height: 10vh;
+.jumbotron {
+    background-color: grey;
+    align-content: center;
 }
